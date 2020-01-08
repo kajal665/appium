@@ -1,0 +1,14 @@
+An unknown server-side error occurred while processing the command. Original error: Could not find 'adb.exe' in ["C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\platform-tools\\adb.exe","C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\emulator\\adb.exe","C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\tools\\adb.exe","C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\tools\\bin\\adb.exe"]. Do you have Android Build Tools installed at 'C:\Users\SIF1011877\AppData\Local\Android\Sdk\tools\bin'?
+this is a appiumm error
+
+
+this is appium log error
+["C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\platform-tools\\adb.exe","C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\emulator\\adb.exe","C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\tools\\adb.exe","C:\\Users\\SIF1011877\\AppData\\Local\\Android\\Sdk\\tools\\bin\\tools\\bin\\adb.exe"]. Do you have Android Build Tools installed at 'C:\Users\SIF1011877\AppData\Local\Android\Sdk\tools\bin'?
+[MJSONWP]     at ADB.getBinaryFromSdkRoot (C:\Users\SIF1011877\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-adb\lib\tools\system-calls.js:106:11)
+[HTTP] <-- POST /wd/hub/session 500 439 ms - 714
+[HTTP] 
+[HTTP] --> DELETE /wd/hub/session
+[HTTP] {}
+[HTTP] No route found. Setting content type to 'text/plain'
+[HTTP] <-- DELETE /wd/hub/session 404 1 ms - 57
+plz slove my problem
